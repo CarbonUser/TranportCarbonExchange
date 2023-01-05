@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Co-Founders
 ---
 
 Harikishan Perugu is an experienced environmental data scientist with 15 years of experience in data-driven solutions for climate change and air quality problems. Used broad knowledge in transportation, emissions, and air quality areas to lead the development of tools for quantifying transportation environmental impacts. Envisioned road maps for designing effective strategies to achieve transportation decarbonization goals and developed dashboards to track the progress of transport GHG emission reduction pathways. He has research interests in Electric Vehicle Activity, Transport GHG Emissions, Sustainability, Climate Change and Application of Blockchain Technology for Emission Monitoring, Reporting and Verification.
