@@ -41,9 +41,9 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+#footer:
+#  copyright:
+#    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
