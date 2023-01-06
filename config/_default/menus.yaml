@@ -7,20 +7,20 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
-    url: post
-    weight: 50
-  - name: People
-    url: people
-    weight: 30
-  - name: Tokenization
-    url: event
-    weight: 40
   - name: Our Work
-    url: publication
+    url: work
     weight: 20
   - name: Vision
     url: publication
+    weight: 30
+  - name: News
+    url: post
+    weight: 40
+  - name: Tokenization
+    url: event
+    weight: 50
+  - name: People
+    url: people
     weight: 60
   - name: Contact
     url: contact
