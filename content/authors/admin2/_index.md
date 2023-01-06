@@ -24,15 +24,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Civil Engineering
-      institution: University of Cincinnati
-      year: 2013
     - course: MS in Civil Engineering
-      institution: University of Cincinnati
-      year: 2007
+      institution: University of Lousiana, Lafayette
+      year: 2004
     - course: BTech in Civil Engineering
-      institution: Jawharlal Nehru Technological University
-      year: 2001
+      institution: Osmania University
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,7 +44,7 @@ social:
     link: https://twitter.com/haripe
   - icon: github
     icon_pack: fab
-    link: https://github.com/hperugu
+    link: https://github.com/rporandla
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
