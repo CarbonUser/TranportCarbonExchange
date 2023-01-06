@@ -4,38 +4,34 @@ title: 吳恩達
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Raj Porandla
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Co-Founder
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Caltrans
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Raj Porandla is a seasoned professional with 20 years of experience in technology development, systems engineering for Smart Mobility Solutions, data-driven solutions for climate change, transportation congestion mitigation problems and air quality mitigation problems. Cross trained professional with emphasis on transportation and environmental policies to lead the development of tools for quantifying transportation environmental impacts. Envisioned road maps for designing effective strategies to achieve transportation decarbonization goals and developed dashboards to track the progress of transport GHG emission reduction pathways. He has research interests in Autonomous Vehicles, Transport GHG Emissions, Sustainability, Climate Change and Application of Blockchain Technology for Emission Monitoring, Reporting and Verification.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Blockchain Technology
+  - ESG
+  - Data Science
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Civil Engineering
+      institution: University of Lousiana, Lafeyette
+      year: 2004
+    - course: BTech in Civil Engineering
+      institution: Osmania University
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +66,4 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Raj Porandla is a seasoned professional with 20 years of experience in technology development, systems engineering for Smart Mobility Solutions, data-driven solutions for climate change, transportation congestion mitigation problems and air quality mitigation problems. Cross trained professional with emphasis on transportation and environmental policies to lead the development of tools for quantifying transportation environmental impacts. Envisioned road maps for designing effective strategies to achieve transportation decarbonization goals and developed dashboards to track the progress of transport GHG emission reduction pathways. He has research interests in Autonomous Vehicles, Transport GHG Emissions, Sustainability, Climate Change and Application of Blockchain Technology for Emission Monitoring, Reporting and Verification.
